@@ -1,2 +1,2 @@
 # designpatterns
-Design Patterns .Net
+Design Patterns with .Net Core  
